@@ -27,6 +27,7 @@
 
 ```
 📦 Shopper_Spectrum_Project/
+├── shopper_spectrum_nb.ipynb      # ✅ Notebook file to generate pkl files 
 ├── shopper_spectrum_app.py        # ✅ Streamlit application
 ├── kmeans_model.pkl               # ✅ Trained KMeans model
 ├── scaler.pkl                     # ✅ Scaler used for RFM features
